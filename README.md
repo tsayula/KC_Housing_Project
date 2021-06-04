@@ -1,5 +1,5 @@
-# KC_Housing_Project
-# KC_Housing_Project
+
+# King County Housing Project
 By: Lera Tsayukova
 Phase 2 Project
 
