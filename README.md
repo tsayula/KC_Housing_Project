@@ -74,6 +74,14 @@ All of the original features combined with new engineered features and dummy cat
 # III: Ideas for Future Modeling
 -More work can be done to narrow down and eliminate down and eliminate the best features, such as going back and looking at the residuals more in depth, and finding out which errors are not normally distributed. Another best practice could be to take the log transformation of some of the numerical columns.
   
- 
+READ.me
+data
+visuals
+notebook
+KC_Housing_presentation.pdf
+KC_Final_Housing_Model.ipynb
+KC_Final_Housing_Predictions.ipynb
+model.pickle
+
 
   
