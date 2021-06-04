@@ -1,6 +1,9 @@
 
 # King County Housing Project
 By: Lera Tsayukova
+
+![Seattle](https://user-images.githubusercontent.com/75099138/120870328-a295e280-c566-11eb-8f6c-179ca160d4c6.jpg)
+
 Phase 2 Project
 
 # Summary
@@ -80,11 +83,11 @@ All of the original features combined with new engineered features and dummy cat
 -READ.me
 -data
 -visuals
--notebook
--KC_Housing_presentation.pdf
+-EDA notebook
 -KC_Final_Housing_Model.ipynb
 -KC_Final_Housing_Predictions.ipynb
--model.pickle
+-KC_Housing_presentation.pdf
+
 
 
   
