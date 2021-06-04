@@ -34,7 +34,8 @@ B) Exploratory Data Analysis (EDA:
 
 ##### Bathrooms
 -Some insightful findings includes the number of bathrooms which were oddly distributed:
-[bathrooms scatterjoin](https://user-images.githubusercontent.com/75099138/120867240-86db0e00-c55f-11eb-8b4b-cb60ee9b76cf.png)
+![bathrooms scatterjoin](https://user-images.githubusercontent.com/75099138/120869903-8180c200-c565-11eb-9d40-b08a1538e0b6.png)
+
 
 #### View & Sqft Living
 -Additionally it seemed that square foot living had a large impact on price, especially when paired with other features:
