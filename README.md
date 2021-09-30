@@ -1,5 +1,5 @@
 
-# King County Housing Project
+# Kings County Housing Project
 By: Lera Tsayukova
 
 ![Seattle](https://user-images.githubusercontent.com/75099138/120870328-a295e280-c566-11eb-8f6c-179ca160d4c6.jpg)
@@ -8,7 +8,7 @@ Phase 2 Project
 
 # Summary
 This project examines housing sales data from Kings County Washington, between 2014 and 2015, in order gain insight about what factors determine house prices. 
-This repo is broken into two parts. The EDA notebook outlines the data exploration process; it examines the raw data set, engineers new features, and goes through the cyle of creating a model and testing the data against itself. . The Prediction Notebook utilizes the findings and features from the EDA notebook in order to create predictions for a holdout data set of housing data to see how accurately the created model can predict housing prices.
+This repo is broken into two parts. The EDA notebook outlines the data exploration process; it examines the raw data set, engineers new features, and goes through the cyle of creating a model and testing the data against itself.  The Prediction Notebook utilizes the findings and features from the EDA notebook in order to create predictions for a holdout data set of housing data to see how accurately the created model can predict housing prices.
 
 ### Data Preparation and EDA Steps
 A) Prep the data by: 
@@ -18,7 +18,7 @@ A) Prep the data by:
   -Finding outliers by running statistical tests- using the mean and standard deviations
   -Checking for inconsistencies in the data
   
-B) Exploratory Data Analysis (EDA: 
+B) Exploratory Data Analysis (EDA): 
   The goal here was to gain an understanding of the data's main characterstics by:
   -Creating a correlation map
   -Producing graphs of features and the target(housing prices)
