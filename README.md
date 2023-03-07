@@ -4,7 +4,6 @@ By: Lera Tsayukova
 
 ![Seattle](https://user-images.githubusercontent.com/75099138/120870328-a295e280-c566-11eb-8f6c-179ca160d4c6.jpg)
 
-Phase 2 Project
 
 # Summary
 This project examines housing sales data from Kings County Washington, between 2014 and 2015, in order gain insight about what factors determine house prices. 
@@ -36,7 +35,7 @@ B) Exploratory Data Analysis (EDA):
 
 
 ##### Bathrooms
--Some insightful findings includes the number of bathrooms which were oddly distributed:
+-Some insightful findings includes the number of bathrooms which were distributed:
 ![bathrooms scatterjoin](https://user-images.githubusercontent.com/75099138/120869903-8180c200-c565-11eb-9d40-b08a1538e0b6.png)
 
 
@@ -61,6 +60,7 @@ B) Exploratory Data Analysis (EDA):
  ##### Inference: 
   By running an OLS model on our numerical categories, we are able to better understand how the variables impact price based on the paired coeffecient:
   -For example: SqftLiving, waterfont, and bathrooms were some features which strongly impacted price.
+  
   <img width="532" alt="Screen Shot 2021-06-04 at 6 17 32 PM" src="https://user-images.githubusercontent.com/75099138/120868183-7035b680-c561-11eb-982a-a55734ec4b77.png">
 <img width="643" alt="Screen Shot 2021-06-04 at 6 17 22 PM" src="https://user-images.githubusercontent.com/75099138/120868186-7330a700-c561-11eb-8c45-483d5d19f525.png">
 
@@ -76,7 +76,7 @@ All of the original features combined with new engineered features and dummy cat
 
 
 # III: Ideas for Future Modeling
--More work can be done to narrow down and eliminate down and eliminate the best features, such as going back and looking at the residuals more in depth, and finding out which errors are not normally distributed. Another best practice could be to take the log transformation of some of the numerical columns.
+-More work can be done to narrow down and eliminate the best features, such as going back and looking at the residuals more in depth, and finding out which errors are not normally distributed. Another method could be to take the log transformation of some of the numerical columns.
  
  
 ### Repository 
